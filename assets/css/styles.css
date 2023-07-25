@@ -1,1 +1,7 @@
+/* ---------------- Note ----------------
+/* ------------------------------------------------
+This stylesheet below focuses on styling a mixture of elements to aid in the performance and general maintenance of the site. 
+This approach is more efficient because it focuses on fewer components at a time, 
+thus having a small file size and easy routine maintenance when there is a need for making changes on the go.
+------------------------------------------------------------ */ 
 
